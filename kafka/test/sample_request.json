@@ -1,0 +1,28 @@
+[
+    {
+       "task_data":[
+               {
+                   "templateName": "sms_notification_for_bounced_nach",
+                   "templateModel": {
+                       "name": "Yadunandan",
+                       "amount": "25.00",
+                       "reason": "insufficient funds",
+                       "payment_link": "https://ringtest.page.link/pLtS",
+                       "customer_care_no": "022 41434302"
+                   },
+                   "idType": "user_id",
+                   "idValue": 4353760,
+                   "priority": 0,
+                   "toEmail": "YadunandanChaudhry30436@example.net",
+                   "fromEmail": "care@test.paywithring.com",
+                   "contactNo": 9326674067,
+                   "gcmId": "fewJnISiQEmcg8tZkIW_0O:APA91bGQbs3d5M9mcuN0KIMp5f_eVbY5aMncC0CvDOnZ3dX_GZtUlShrXafK3_gH5QVivxHTvIEwrID5O0tivugd-cbwvINiffQzeHoJ08v8P5MUV35XDUPSPLXyvYRc2tsCgUTPFUao"
+               }
+       ],
+       "task_type": "send sms",
+       "task_id":"009",
+       "process_in":"1:m",
+       "queue":"critical",
+       "max_retry":10
+   }
+]
